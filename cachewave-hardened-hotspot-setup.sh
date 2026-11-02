@@ -1,0 +1,1 @@
+a2ec3118a162b28f0394b20fa5d0c11c6591e9f63b130af27be2dab1925deb25  cachewave-hardened-hotspot-setup.sh
